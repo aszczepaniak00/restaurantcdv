@@ -19,6 +19,22 @@
 |1. |MARGHERITA (sos pomidorowy, ser)|  | 20zł| 24zł | 26zł |
 |2. |FUNGHI (sos pomidorowy, ser, pieczarki)| | 23zł| 27zł | 29zł |
 
+
+## Dania wegetariańskie
+### PIZZE
+|Lp.|Pizza: |rozmiar: | 30cm | 50cm | 60cm|
+|---|----------------------------------|---|--|-|----------------|
+|1. |MARGHERITA (sos pomidorowy, ser)|  | 20zł| 24zł | 26zł |
+|2. |FUNGHI (sos pomidorowy, ser, pieczarki)| | 23zł| 27zł | 29zł |
+|3. |HAWAJSKA WEGE (sos pomidorowy, ser, tofu, ananas)| | 26zł| 28zł | 30zł |
+|4. |MILANO (sos pomidorowy, ser, papryka)| | 23zł| 25zł | 27zł |
+
+### SAŁATKI 
+|Lp.|Dodatek:| Cena |
+|---|--------|------|
+|1. |Sałatka Grecka (pomidor, feta, ogórek, oliwki) | 18zł |
+|2. |Cesar (sałata, pomidor, cebula)| 16zł |
+
 ## Dodatki
 |Lp.|Dodatek:| Cena |
 |---|--------|------|
