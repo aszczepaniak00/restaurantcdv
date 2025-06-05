@@ -2,9 +2,25 @@
 
 ## Pizze klasyczne
 
-1. MARGHERITA (sos pomidorowy, ser) 20zł
-2. FUNGHI (sos pomidorowy, ser, pieczarki) 23zł
-3. SALAMI (sos pomidorowy, ser, salami) 26zł
-4. VESUVIO (sos pomidorowy, podwujny ser, szynka) 27zł
-5. HAWAJSKA (sos pomidorowy, ser, szynka, ananas) 26zł
-6. MILANO (sos pomidorowy, ser, papryka) 23zł
+<img src = "Pulpit/github/ciasto-na-pizze-nowe-1.jpg" width = 300>
+
+|Lp.|Pizza: |rozmiar: | 30cm | 50cm | 60cm|
+|---|----------------------------------|---|--|-|----------------|
+|1. |MARGHERITA (sos pomidorowy, ser)|  | 20zł| 24zł | 26zł |
+|2. |FUNGHI (sos pomidorowy, ser, pieczarki)| | 23zł| 27zł | 29zł |
+|3. |SALAMI (sos pomidorowy, ser, salami) | | 26zł| 28zł | 30zł |
+|4. |VESUVIO (sos pomidorowy, podwujny ser, szynka)| | 27zł| 29zł| 31zł |
+|5. |HAWAJSKA (sos pomidorowy, ser, szynka, ananas)| | 26zł| 28zł | 30zł |
+|6. |MILANO (sos pomidorowy, ser, papryka)| | 23zł| 25zł | 27zł |
+
+## Pizze calzone
+|Lp.|Pizza: |rozmiar: | 30cm | 50cm | 60cm|
+|---|----------------------------------|---|--|-|----------------|
+|1. |MARGHERITA (sos pomidorowy, ser)|  | 20zł| 24zł | 26zł |
+|2. |FUNGHI (sos pomidorowy, ser, pieczarki)| | 23zł| 27zł | 29zł |
+
+## Dodatki
+|Lp.|Dodatek:| Cena |
+|---|--------|------|
+|1. |Frytki| 13zł |
+|2. |Sałatka| 8zł|
