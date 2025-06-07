@@ -1,3 +1,2 @@
 # restaurantcdv
-ten plik należy do gałęzi wege
-
+to jest strona naszej pizzerii.
