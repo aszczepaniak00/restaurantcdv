@@ -40,3 +40,9 @@
 |---|--------|------|
 |1. |Frytki| 13zł |
 |2. |Sałatka| 8zł|
+
+
+## Napój
+1. Sok jabłkowy
+2. Sok pomarańczowy
+3. Woda
