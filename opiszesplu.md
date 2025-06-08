@@ -1,3 +1,7 @@
 # zespuł
 
-treść
+## kierownik
+
+## dostawcca
+
+## grafik
