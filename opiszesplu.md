@@ -1,3 +1,11 @@
 # zespuł
 
-treść
+## kierownik
+
+## dostawcca
+
+## grafik
+
+## kucharz
+
+## obsługa
